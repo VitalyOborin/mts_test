@@ -1,0 +1,5 @@
+.idea
+.git
+docker
+var/cache
+var/log
